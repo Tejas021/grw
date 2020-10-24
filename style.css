@@ -1,0 +1,19 @@
+div.grid{
+  
+    height:50%;
+    width:50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.elem{
+    width:33.333%;
+    height:33.33%;
+}
+h2,h3{
+    color:white;
+    margin:10px;
+}
+body{
+    background-color: midnightblue;
+}
